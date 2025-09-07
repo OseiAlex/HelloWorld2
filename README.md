@@ -1,18 +1,18 @@
 # Overview
 
-Develop gaming modules in Java.
+Develop a simple hello world code in Java.
 
 A system to greet its users
 
-A gaming module that I will later implement into my game. 
+A  module that I will later implement into my project. 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-(https://youtube.com/shorts/A103eQN0I0A?feature=share)
+(https://youtube.com/shorts/V9yOWE5A7lw?feature=share)
 
 # Development Environment
 
-Java and JavaFx
+Java and Git
 
 I used Java
 
